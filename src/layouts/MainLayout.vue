@@ -10,7 +10,7 @@ import { RouterLink, RouterView } from 'vue-router'
         <RouterLink to="/admin">Admin</RouterLink>
         <RouterLink to="/entreprise">Entreprise</RouterLink>
         <RouterLink to="/formateur">Formateur</RouterLink>
-        <RouterLink to="/recruteur">Recruteur</RouterLink>
+        
         <RouterLink to="/candidat">Candidat</RouterLink>
       </nav>
       <div class="user-actions">
